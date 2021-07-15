@@ -1,6 +1,6 @@
 # flash_chat
 
-A new Flutter project.
+This is a chat app that create a single room for all the regitered members 
 
 ## Getting Started
 
